@@ -1,15 +1,4 @@
-
-
-<h2 align="center">
-  Hello! I'm Michele 👋
-</h2>
-
-## <code>whoami</code>
-🔭 I currently work as a Software Developer
-
-📚 I'm mainly interested in Development and DevOps.
-
-## My main technical background
+### My main technical background
 
 ![image](https://img.shields.io/badge/Typescript-0000ff?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blu)
