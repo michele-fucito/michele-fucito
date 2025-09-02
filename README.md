@@ -15,8 +15,6 @@
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 ## I also have a technical knowledge in
 
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo)
