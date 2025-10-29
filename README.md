@@ -1,4 +1,4 @@
-### My main technical background
+### Main technical background
 
 ![image](https://img.shields.io/badge/Typescript-0000ff?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blu)
@@ -16,7 +16,7 @@
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## I also have a technical knowledge in
+## Also, technical knowledge in
 
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo)
 ![image](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -24,8 +24,8 @@
 ![image](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 
-## My passions and hobbies
+## Passions and hobbies
 
-👨‍💻 I spend most of my days at my PC, implementing new features, automating tasks in my life and playing video-games.
+👨‍💻 I build things, automate what I can, and play games.
 
-🌲 In addition to my tech interests, I'm also a nature lover who enjoys trekking.
+🌲 Nature and Trekking.
